@@ -4,7 +4,7 @@ class Display{
     static String type = "Display"; //static variable
     private String name;
 
-    //Construction
+    //Constructor
     Display(String name){
         this.name = name;
     }
